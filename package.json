@@ -2,5 +2,17 @@
   "dependencies": {
     "generate-password": "^1.7.1",
     "nodemailer": "^7.0.11"
-  }
+  },
+  "name": "nodejscp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "email-sender.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
